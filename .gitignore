@@ -1,0 +1,24 @@
+# ─ Environment & editor
+.env
+*.env
+.vscode/
+.idea/
+.DS_Store
+
+# ─ Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# ─ Obsidian vault attachments & large files
+rag_research_project_vault/Paper Dump/*.pdf
+rag_research_project_vault/Literature/*.pdf
+
+# ─ Zotero export folders (if you use them)
+zotero_export/
+combined_export/
+
+# ─ Other local data
+*.sqlite

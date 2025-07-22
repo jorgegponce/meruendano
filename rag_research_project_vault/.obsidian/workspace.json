@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "5e8514e25ab6f057",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5bdbb5d1691f67e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47e3df9ffbd6a337",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper Dump/2111.10956v4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2111.10956v4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46a83cfabcc96793",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1ed6407a26680d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5bdc9f30b42e277",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5beadf4af70af244",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6630de06e3bdb277",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94da94f0b1686b35",
+    "type": "split",
+    "children": [
+      {
+        "id": "413381c4cc2d89e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38c0f326c3e58cdd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Paper Dump/2111.10956v4.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2111.10956v4"
+            }
+          },
+          {
+            "id": "a2e403d7457f1276",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Paper Dump/2111.10956v4.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2111.10956v4"
+            }
+          },
+          {
+            "id": "8c9c2c45ba7cda27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a9af132414579f42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Paper Dump/2111.10956v4.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2111.10956v4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f5bdc9f30b42e277",
+  "lastOpenFiles": [
+    "Paper Dump/s41598-025-02959-z.pdf",
+    "Paper Dump/2303.09491v1.pdf",
+    "Paper Dump/2303.09491v1 (1).pdf",
+    "Paper Dump/2411.09093v1.pdf",
+    "Paper Dump/2408.14697v1.pdf",
+    "Paper Dump/2407.02553v1.pdf",
+    "Paper Dump/2211.07075v3.pdf",
+    "Paper Dump/2111.10956v4.pdf",
+    "Welcome.md",
+    "Literature",
+    "Paper Dump",
+    "create a link.md"
+  ]
+}
