@@ -13,8 +13,8 @@ dist/
 build/
 
 # ─ Obsidian vault attachments & large files
-rag_research_project_vault/Paper Dump/*.pdf
-rag_research_project_vault/Literature/*.pdf
+rag_research_project_vault/Paper Dump/**/*.pdf
+# rag_research_project_vault/Literature/**/*.pdf
 
 # ─ Zotero export folders (if you use them)
 zotero_export/
@@ -22,3 +22,4 @@ combined_export/
 
 # ─ Other local data
 *.sqlite
+.storage/

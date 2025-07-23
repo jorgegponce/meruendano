@@ -11,12 +11,14 @@
             "id": "47e3df9ffbd6a337",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Paper Dump/2111.10956v4.pdf"
+                "file": "Literature/kolkowitz-optical-clocks_notes/xin-zheng-2022-differential-clock-comparisons-with-a-multiplexed-optical-lattice-clock.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2111.10956v4"
+              "icon": "lucide-file",
+              "title": "xin-zheng-2022-differential-clock-comparisons-with-a-multiplexed-optical-lattice-clock"
             }
           }
         ]
@@ -166,19 +168,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5bdc9f30b42e277",
+  "active": "47e3df9ffbd6a337",
   "lastOpenFiles": [
-    "Paper Dump/s41598-025-02959-z.pdf",
-    "Paper Dump/2303.09491v1.pdf",
-    "Paper Dump/2303.09491v1 (1).pdf",
-    "Paper Dump/2411.09093v1.pdf",
-    "Paper Dump/2408.14697v1.pdf",
-    "Paper Dump/2407.02553v1.pdf",
-    "Paper Dump/2211.07075v3.pdf",
-    "Paper Dump/2111.10956v4.pdf",
+    "create a link.md",
+    "Literature/kolkowitz-optical-clocks_notes/xin-zheng-2022-differential-clock-comparisons-with-a-multiplexed-optical-lattice-clock.md",
+    "Literature/kolkowitz-optical-clocks_notesxin-zheng-2022-differential-clock-comparisons-with-a-multiplexed-optical-lattice-clock.md",
+    "Literature/kolkowitz-optical-clocks_pdfs/yicheng-bao-2022-fast-optical-transport-of-ultracold-molecules-over-long-distances.pdf",
+    "Literature/kolkowitz-optical-clocks_pdfs/andrew-d-ludlow-2015-optical-atomic-clocks.pdf",
+    "Literature/kolkowitz-optical-clocks_pdfs/xin-zheng-2022-differential-clock-comparisons-with-a-multiplexed-optical-lattice-clock.pdf",
+    "Literature/kolkowitz-optical-clocks_pdfs/xin-zheng-2023-a-lab-based-test-of-the-gravitational-redshift-with-a-miniature-clock-network.pdf",
+    "Literature/kolkowitz-optical-clocks_pdfs/id-https-openalex-org-a5012864030-display-name-xin-zheng-orcid-https-orcid-org-0000-0003-4745-8070-2022-differential-clock-comparisons-with-a-multiplexed-optical-lattice-clock.pdf",
     "Welcome.md",
-    "Literature",
-    "Paper Dump",
-    "create a link.md"
+    "Literature/kolkowitz-optical-clocks_pdfs/id-https-openalex-org-a5079592189-display-name-yicheng-bao-orcid-https-orcid-org-0000-0002-0955-8567-2022-fast-optical-transport-of-ultracold-molecules-over-long-distances.pdf",
+    "Paper Dump/2211.07075v3.pdf",
+    "Literature/kolkowitz-optical-clocks_pdfs/id-https-openalex-org-a5038881639-display-name-andrew-d-ludlow-orcid-https-orcid-org-0009-0001-8584-889x-2015-optical-atomic-clocks.pdf",
+    "Literature/kolkowitz-optical-clocks_pdfs/id-https-openalex-org-a5012864030-display-name-xin-zheng-orcid-https-orcid-org-0000-0003-4745-8070-2023-a-lab-based-test-of-the-gravitational-redshift-with-a-miniature-clock-network.pdf",
+    "Paper Dump/2111.10956v4.pdf"
   ]
 }
